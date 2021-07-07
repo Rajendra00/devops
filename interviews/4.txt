@@ -1,0 +1,17 @@
+1)what is git merge and git rebase
+2)what is declarative  and scripted pipeline
+3)where you jenkins file store 
+4)what is master slave
+5)how to add volume in running containers
+6)how many masters and nodes your using in your cluster
+7)how many pods are runing on your cluster
+8)how to check pod is runing are not 
+9)what is statefulset
+10)tell me k8s orchestration 
+11)what is ingresscontroller how its work
+12)Difference between entrypoint and cmd
+13)Difference between Run and cmd
+14)tell loadbalancer types in aws
+15)what is listener
+16)what is igw and NAT-gw
+17)which type of authenticator tools your using in your organization

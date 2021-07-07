@@ -1,0 +1,15 @@
+1.what is docker engine why we use that?
+2.what is cloud formation?
+3.tell me end-to-end CICD flow?
+4.what is diff b/w fech and pull?
+5.what is ci and cd?
+6.who's asign u work in you are oganization?
+7.how many ec2 are running in you are organization?
+8.whre u have to check incase   instance are faild?
+9.what is pipeline which tye of pipeline r u using?
+10.how to check container data?
+11.how to check image?
+12.what is k8s?why we use?
+13.which aws tools are using?
+14.wher u store the images?
+15.wher we store packages?

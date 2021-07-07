@@ -1,0 +1,25 @@
+1.What is host and path based routing in load balancer.
+2.Difference between classic and application load balancer.
+3.What is Target group
+4.What is Listener in ALB.
+5.Difference between public and private subnet and how to identify them.
+6.Difference between security group and NACL
+7.Where you define NAT gateway
+8.What is VPC and route table
+9.When our app server is slow then how to diagnose.
+10.Lifecycle in s3?
+11.What are logstash
+13.Why Nginx is a reverse proxy server.
+14.Have you integrated kafka with jenkins
+15.daily roles and responsibilities
+16.how you will check the logs
+17.Explain kubernetes arch.
+18.What is elastic search?
+19.diff. bt RDS and EC2?
+20.Diff bt S3 and EBS?
+21.what is docker engine?
+22.What is playbook in ansible
+23.What are roles in ansible
+24.write the pipeline sample example
+25.write the sample dockerfile
+26.docker command to delete all the containers
