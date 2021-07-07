@@ -1,0 +1,26 @@
+1.what is cloud formations?
+2.which tools are using cicd purpose?
+3.how to write a secrets?
+4.Are you creating any repos?
+5.what are  you doing inside in  you github account?
+6.there are two options  status check and system check?what are you see in side checks?
+7.what are the stages in pipeline?
+8.how check inside the port is working or not?tell me the syntax?
+9.aws services?
+10.are you creating any database?
+11.you know sql command?
+12.what is the life cycle of s3?
+13.whare you using docker and k8s?
+14.diff b/w ec2 and s3?
+15.what is vpc?
+16.what is your role in you organization?
+17.what is your daily activites?
+18.which type of services are you using aws ?
+19.are you know java language
+20.one directory inside combine of java and php files is their ?how the modify the java file to php file?
+21.you know terraform?
+22.what is eks?
+24.what is grafana?
+25.what is prometheus?
+26.where you deploy the application in tomcat?
+27.sql connection? syntax?
